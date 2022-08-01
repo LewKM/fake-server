@@ -3,13 +3,12 @@
   "version": "1.0.0",
   "description": "fake server with fake database",
   "main": "server.js",
-  "scripts": { // <===
-    "start": "node server.js" // <===
+  "scripts": {
+    "start": "node server.js"
   },
-  "author": "Lew KM",
+  "author": "Youssef Zidan",
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.16.3"
   }
 }
-
